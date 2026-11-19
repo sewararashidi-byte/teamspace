@@ -115,7 +115,7 @@ The deployed application includes its core planning and collaboration workflows.
 
 ## About the developer
 
-**Sewara Rashidi** · Software Engineering
+**Sewara Rashidi** · Software Engineer
 
 [GitHub](https://github.com/sewararashidi-byte) · [LinkedIn](https://www.linkedin.com/in/sewara-rashidi-409070383)
 
