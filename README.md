@@ -119,8 +119,34 @@ The deployed application includes its core planning and collaboration workflows.
 
 [GitHub](https://github.com/sewararashidi-byte) · [LinkedIn](https://www.linkedin.com/in/sewara-rashidi-409070383)
 
+
+
+---
+
+## Application Screenshots
+
+A closer look at TeamSpace's Fieldnotes workspace and its different approaches to project management.
+
+### Focus — Your priorities, clearly organized
+![TeamSpace Focus View](docs/screenshots/Focus.png)
+
+### Map — Explore connected projects
+![TeamSpace Map View](docs/screenshots/Map.png)
+
+### Flow — Manage tasks and progress
+![TeamSpace Flow View](docs/screenshots/Flow.png)
+
+### Plan — Milestones and timelines
+![TeamSpace Plan View](docs/screenshots/Plan.png)
+
+### Team — Collaborate with members
+![TeamSpace Team View](docs/screenshots/Team.png)
+
+### Collaborate — Shared work and discussion
+![TeamSpace Collaborate View](docs/screenshots/Collaborate.png)
+
 ---
 
 <div align="center">
-<sub>Designed and developed as a full-stack software engineering portfolio project.</sub>
+<sub>Designed and developed as a full-stack project.</sub>
 </div>
